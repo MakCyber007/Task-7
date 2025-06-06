@@ -1,5 +1,5 @@
 # Task-7
-#**Identifying and Removing Suspicious Browser Extensions**#
+**Identifying and Removing Suspicious Browser Extensions**
 This repository documents the process and findings for an internship task focused on browser security.
 
 **Objective:**
